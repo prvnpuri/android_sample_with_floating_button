@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FloatingExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="APP_NAME">Copy Cart</string>
+    <string name="activate_float" >Activate Float</string>
+    <string name="deactivate_button">Deactivate Float</string>
+</resources>
